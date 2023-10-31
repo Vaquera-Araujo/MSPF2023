@@ -4,6 +4,7 @@ In this repository you can find the materials of the short course Standard Model
 
 The slides of the course are here:
 
+[Standard_Model.pdf](https://github.com/Vaquera-Araujo/MSPF2023/blob/main/Standard_Model.pdf)
 
 Python notebooks:
 
